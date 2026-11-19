@@ -1,5 +1,4 @@
-Godot/.godot/
-Godot/export.cfg
-Godot/export_presets.cfg
+.godot/
+.export/
 *.tmp
 *.bak
